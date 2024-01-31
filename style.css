@@ -1,0 +1,17 @@
+* {
+    background-color: aquamarine;
+}
+
+body {
+    text-align: center;
+}
+
+button {
+    padding: 15px 28px;
+    background-color: rgb(36, 121, 121);
+    border-radius: 8px;
+    border: none;
+    color: white;
+    text-align: center;
+    cursor: pointer;
+}
